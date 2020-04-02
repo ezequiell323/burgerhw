@@ -1,0 +1,24 @@
+{
+  "name": "burgerhw",
+  "version": "1.0.0",
+  "description": "burgerhw",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequiell323/burgerhw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezequiell323/burgerhw/issues"
+  },
+  "homepage": "https://github.com/ezequiell323/burgerhw#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.1",
+    "mysql": "^2.18.1"
+  }
+}
